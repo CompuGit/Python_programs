@@ -11,14 +11,14 @@
 
 After Bonus Lecture 1
 # Stage 1 Programs
-    1. Generate a 6-digit random number
-    2.	Find the 5th root of 80 i.e. 580
+    1.  Generate a 6-digit random number
+    2.	Find the 5th root of 80 i.e. 5√80
     3.	Do the following operations with complex numbers
         •	Complex number added with another complex and scalar
         •	Complex number subtracted with another complex and scalar
         •	Complex number multiplied with another complex and scalar
         •	Complex number divided with another complex and scalar
-    4.	Find the length of bits occupied, number of 1’s and 0’s in a given integer n = 15 
+    4.	Find the length of bits occupied, number of 1’s and 0’s in a given integer n = 158 
     5.	Do the following conversions
         •	(13)10 – (?)2, (?)8, (?)16
         •  	(0b10101001)2 – (?)10, (?)8, (?)16
@@ -145,5 +145,10 @@ After lecture 11
         #Input : '( ( ) { [ } )' #Output : False
 
 
+# Mini projects at the end of all core concepts
+    There are given google-python-exercises and a mini game rock papers scissors
+    Visit those and write the code for them as desired accoring the their outputs.
 
+    Please dont look into solution unless you tried first.
 
+    Good luck...! :)
