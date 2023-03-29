@@ -81,6 +81,8 @@ After lecture 7
         #Output : 4a3b2c1d2a
 
 
+# Test - 1
+
 After lecture 8
 # Stage 6 Programs
     1.	WAP to find min and max number in an array and print in (min, max) tuple format.
@@ -144,6 +146,7 @@ After lecture 11
         #Input : '( ( ) [ ( ) ] { ( ) } )' #Output : True
         #Input : '( ( ) { [ } )' #Output : False
 
+# Test - 2
 
 # Mini projects at the end of all core concepts
     There are given google-python-exercises and a mini game rock papers scissors
