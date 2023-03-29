@@ -91,3 +91,45 @@
 •	Assertions
 •	Exceptions
 •	Error Handling
+
+
+# Opps with Python
+
+## Lecture 1
+•	Oops Core
+•	What is a class?
+•	Objects vs Instances
+•	Creating Classes and its Objects
+
+## Lecture 2
+•	Attributes
+•	Class Variables
+•	Instance Variables
+•	Built-in Class attributes
+•	Attributes Functions
+
+## Lecture 3
+•	Methods
+•	Instance Methods
+•	Magic Methods and Operator Overloading
+•	Class Methods
+•	Static Methods
+
+## Lecture 4
+•	Inheritance
+•	Types of Inheritance
+•	Method Overriding
+•	Data Hiding
+
+## Lecture 5
+•	Multi-Threading
+•	Synchrnous Locks
+•	User Defined Multi-Threaded Classes
+•	Multi-Processing
+•	Sub-Processes
+
+## Lecture 6
+•	Modules
+•	Packages
+•	Virtual Environments
+•	Install from PiPy / Git with PIP
