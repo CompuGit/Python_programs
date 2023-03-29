@@ -132,4 +132,4 @@
 •	Modules
 •	Packages
 •	Virtual Environments
-•	Install from PiPy / Git with PIP
+•	Install from PyPi / Git with PIP
