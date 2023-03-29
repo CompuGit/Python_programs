@@ -146,7 +146,12 @@ After lecture 11
         #Input : '( ( ) [ ( ) ] { ( ) } )' #Output : True
         #Input : '( ( ) { [ } )' #Output : False
 
+
 # Test - 2
+
+
+## Start Oops with Py Lectures along with the below mini-projects
+
 
 # Mini projects at the end of all core concepts
     There are given google-python-exercises and a mini game rock papers scissors
